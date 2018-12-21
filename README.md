@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hang's Blogs
 
 You can use the [editor on GitHub](https://github.com/Su57/Su57.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
